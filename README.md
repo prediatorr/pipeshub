@@ -25,8 +25,8 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/prediatorr/pipeshub
+   cd pipeshub
    ```
 
 2. Install dependencies:
