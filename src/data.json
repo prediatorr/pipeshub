@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "specialties": ["Divorce", "Criminal"],
+      "availableTimeSlots": ["9:00 AM", "9:30 AM", "10:00 AM", "10:30 AM"],
+      "cost": 100,
+      "appointments": []
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "specialties": ["Property Dispute", "Criminal"],
+      "availableTimeSlots": ["11:00 AM", "11:30 AM", "12:00 PM", "12:30 PM"],
+      "cost": 120,
+      "appointments": []
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "specialties": ["Tax", "Corporate"],
+      "availableTimeSlots": ["1:00 PM", "1:30 PM", "2:00 PM", "2:30 PM"],
+      "cost": 150,
+      "appointments": []
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "specialties": ["Immigration", "Criminal"],
+      "availableTimeSlots": ["3:00 PM", "3:30 PM", "4:00 PM", "4:30 PM"],
+      "cost": 90,
+      "appointments": []
+    },
+    {
+      "id": 5,
+      "name": "William Brown",
+      "specialties": ["Civil", "Divorce"],
+      "availableTimeSlots": ["10:00 AM", "10:30 AM", "11:00 AM", "11:30 AM"],
+      "cost": 110,
+      "appointments": []
+    },
+    {
+      "id": 6,
+      "name": "Sophia Wilson",
+      "specialties": ["Criminal", "Human Rights"],
+      "availableTimeSlots": ["9:30 AM", "10:00 AM", "10:30 AM", "11:00 AM"],
+      "cost": 140,
+      "appointments": []
+    },
+    {
+      "id": 7,
+      "name": "James Martinez",
+      "specialties": ["Corporate", "Intellectual Property"],
+      "availableTimeSlots": ["1:30 PM", "2:00 PM", "2:30 PM", "3:00 PM"],
+      "cost": 180,
+      "appointments": []
+    },
+    {
+      "id": 8,
+      "name": "Isabella Garcia",
+      "specialties": ["Environmental", "Civil"],
+      "availableTimeSlots": ["8:00 AM", "8:30 AM", "9:00 AM", "9:30 AM"],
+      "cost": 130,
+      "appointments": []
+    },
+    {
+      "id": 9,
+      "name": "Benjamin Thomas",
+      "specialties": ["Bankruptcy", "Family"],
+      "availableTimeSlots": ["2:00 PM", "2:30 PM", "3:00 PM", "3:30 PM"],
+      "cost": 125,
+      "appointments": []
+    },
+    {
+      "id": 10,
+      "name": "Ava Taylor",
+      "specialties": ["Medical Malpractice", "Criminal"],
+      "availableTimeSlots": ["10:30 AM", "11:00 AM", "11:30 AM", "12:00 PM"],
+      "cost": 160,
+      "appointments": []
+    }
+  ]
+  
